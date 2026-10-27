@@ -1,0 +1,191 @@
+aiohappyeyeballs==2.7.1
+aiohttp==3.14.5
+aiohttp-retry==2.9.1
+aiosignal==1.4.0
+annotated-doc==0.0.5
+annotated-types==0.8.0
+anyio @ file:///C:/Users/task_179188262861016/croot/anyio_1791882697633/work
+argon2-cffi @ file:///C:/Users/task_176606717499708/croot/argon2-cffi_1766067891508/work
+argon2-cffi-bindings @ file:///C:/Users/task_179128147518820/croot/argon2-cffi-bindings_1791282095996/work
+asttokens @ file:///C:/Users/task_179302522456235/croot/asttokens_1793025395662/work
+async-lru @ file:///C:/Users/task_GhaSBQB5Q2eNZ_0/croot/async-lru_1783505017965/work
+attrs @ file:///C:/Users/task_177495968374484/croot/attrs_1774959757320/work
+babel @ file:///C:/Users/task_ZTIDZNfVSamyK_0/croot/babel_1786023452558/work
+bcrypt==5.0.0
+beautifulsoup4 @ file:///C:/Users/task_178117288498386/croot/beautifulsoup4-split_1781173621024/work
+bleach @ file:///C:/Users/task_178239051654277/croot/bleach_1782390603798/work
+blinker==1.9.0
+brotlicffi @ file:///C:/Users/task_179300679511369/croot/brotlicffi_1793006879404/work
+build==1.6.1
+certifi @ file:///home/task_179300541075950/croot/certifi_1793006633205/work/certifi
+cffi @ file:///C:/Users/task_178669709929117/croot/cffi_1786697253932/work
+charset-normalizer @ file:///C:/Users/task_Rv9ykhKISAWPX_0/croot/charset-normalizer_1782917499282/work
+chromadb==1.5.9
+click==8.5.0
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+comm @ file:///C:/miniconda3/conda-bld/comm_1763119281973/work
+contourpy==1.4.0
+cycler==0.12.1
+debugpy @ file:///C:/Users/task_HduoYTpxTyChc_1/croot/debugpy_1783355754115/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+distro==1.9.0
+durationpy==0.11
+executing @ file:///C:/Users/task_178782632179951/croot/executing_1787826447252/work
+fastjsonschema @ file:///C:/Users/task_179128631852709/croot/python-fastjsonschema_1791286540748/work
+filelock==4.2.4
+flatbuffers==25.12.19
+fonttools==4.68.0
+frozenlist==1.8.0
+fsspec==2026.9.0
+googleapis-common-protos==1.76.0
+grpcio==1.85.0
+h11 @ file:///C:/miniconda3/conda-bld/h11_1761931384726/work
+hf-xet==1.7.0
+httpcore @ file:///C:/b/abs_25m7_xthp6/croot/httpcore_1748526065845/work
+httpcore2==2.16.0
+httptools==0.9.0
+httpx @ file:///C:/miniconda3/conda-bld/httpx_1760447475275/work
+httpx-sse==0.4.3
+httpx2==2.16.0
+huggingface_hub==2.3.0
+idna @ file:///C:/Users/task_179136520797295/croot/idna_1791365353137/work
+importlib_resources==7.1.0
+ipykernel @ file:///C:/Users/task_XDFzl3j7RRODb_0/croot/ipykernel_1785763895758/work
+ipython @ file:///C:/Users/task_179015957145894/croot/ipython_1790159717067/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipython_pygments_lexers @ file:///C:/b/abs_b66hj1lo19/croot/ipython_pygments_lexers_1744753262043/work
+jedi @ file:///C:/Users/task_177868159554526/croot/jedi_1778681782559/work
+Jinja2 @ file:///C:/Users/task_178782650186525/croot/jinja2_1787826590744/work
+jiter==0.18.0
+json5 @ file:///C:/Users/task_179249135485608/croot/json5_1792491437378/work
+jsonpatch==1.38
+jsonpointer==3.6
+jsonschema @ file:///C:/Users/task_178731913883866/croot/jsonschema_1787319288632/work
+jsonschema-specifications @ file:///C:/miniconda3/conda-bld/jsonschema-specifications_1762788613133/work
+jupyter-events @ file:///C:/Users/task_177806719877828/croot/jupyter_events_1778067288936/work
+jupyter-lsp @ file:///C:/Users/task_179007456262811/croot/jupyter-lsp_1790074647911/work
+jupyter_builder @ file:///C:/Users/task_179120390663272/croot/jupyter-builder-split_1791204393657/work
+jupyter_client @ file:///C:/Users/task_178885721253692/croot/jupyter_client_1788857930007/work
+jupyter_core @ file:///C:/miniconda3/conda-bld/jupyter_core_1764588349507/work
+jupyter_server @ file:///C:/Users/task_179007472730839/croot/jupyter_server_1790074809172/work
+jupyter_server_terminals @ file:///C:/Users/task_177028947700273/croot/jupyter_server_terminals_1770289610577/work
+jupyterlab @ file:///C:/Users/task_179217377982325/croot/jupyterlab_1792173867997/work
+jupyterlab_pygments @ file:///C:/b/abs_d5alfet8m6/croot/jupyterlab_pygments_1741124274578/work
+jupyterlab_server @ file:///C:/Users/task_179017274127734/croot/jupyterlab_server_1790173475252/work
+kiwisolver==1.5.1
+kubernetes==37.0.1
+langchain==1.4.7
+langchain-chroma==1.1.0
+langchain-classic==1.0.8
+langchain-community==0.4.2
+langchain-core==1.7.0
+langchain-openai==1.7.3
+langchain-protocol==0.0.20
+langchain-text-splitters==1.1.3
+langgraph==1.2.18
+langgraph-checkpoint==4.3.1
+langgraph-prebuilt==1.1.1
+langgraph-sdk==0.4.10
+langsmith==0.14.14
+lxml==6.1.3
+markdown-it-py==4.2.0
+MarkupSafe @ file:///C:/Users/task_178239080967659/croot/markupsafe_1782390885847/work
+matplotlib==3.11.2
+matplotlib-inline @ file:///C:/Users/task_OJ-21glvTCe9l_0/croot/matplotlib-inline_1784795498400/work
+mdurl==0.1.2
+mistune @ file:///C:/Users/task_179248824332921/croot/mistune_1792488322451/work
+mmh3==5.3.1
+multidict==7.2.1
+nbclient @ file:///C:/Users/task_178248424058831/croot/nbclient_1782484547746/work
+nbconvert @ file:///C:/Users/task_179060568667834/croot/nbconvert-meta_1790605834670/work
+nbformat @ file:///C:/Users/task_179249450840690/croot/nbformat_1792494589193/work
+nest-asyncio2 @ file:///C:/Users/task_FRvvy7tzSCaXn_0/croot/nest-asyncio2_1785322569908/work
+notebook @ file:///C:/Users/task_179083868772154/croot/notebook_1790838762952/work
+notebook_shim @ file:///C:/Users/task_176962991874809/croot/notebook-shim_1769630043684/work
+numpy==2.5.4
+oauthlib==4.0.0
+onnxruntime==1.31.1
+openai==3.40.0
+opentelemetry-api==1.45.1
+opentelemetry-exporter-otlp-common==0.66b1
+opentelemetry-exporter-otlp-proto-common==1.45.1
+opentelemetry-exporter-otlp-proto-grpc==1.45.1
+opentelemetry-proto==1.45.1
+opentelemetry-sdk==1.45.1
+opentelemetry-semantic-conventions==0.66b1
+orjson==3.13.0
+ormsgpack==1.13.0
+overrides==7.7.0
+packaging==26.3
+pandas==3.1.0
+pandocfilters @ file:///C:/miniconda3/conda-bld/pandocfilters_1756977623249/work
+parso @ file:///C:/Users/task_177867415893348/croot/parso_1778674231626/work
+pillow==13.0.0
+platformdirs @ file:///C:/Users/task_179120567071135/croot/platformdirs_1791205749084/work
+prometheus_client @ file:///C:/Users/task_179310116660615/croot/prometheus_client_1793101254152/work
+prompt_toolkit @ file:///C:/Users/task_QK5C4mw2TcyLc_0/croot/prompt-toolkit-split_1785325214190/work
+propcache==0.5.4
+protobuf==7.36.2
+psutil @ file:///C:/Users/task_FVp6bc61SdCR3_0/croot/psutil_1784875536442/work
+pure_eval @ file:///C:/Users/task_179120829703587/croot/pure_eval_1791208375722/work
+pybase64==1.5.1
+pycparser @ file:///C:/Users/task_179207173193472/croot/pycparser_1792072678309/work
+pydantic==2.14.1
+pydantic-settings==2.16.1
+pydantic_core==2.50.1
+Pygments @ file:///C:/Users/task_179034416097385/croot/pygments_1790344292960/work
+pyparsing==3.3.3
+pypdf==6.21.3
+PyPika==0.51.1
+pyproject_hooks==1.3.3
+PySocks @ file:///C:/Users/task_179002186905804/croot/pysocks_1790022036882/work
+python-dateutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dateutil_1729038406576/work
+python-dotenv==1.2.4
+python-json-logger @ file:///C:/Users/task_179128818232746/croot/python-json-logger_1791288320629/work
+pywin32 @ file:///C:/Users/task_178231512253112/croot/pywin32_1782315859308/work
+pywinpty @ file:///C:/Users/task_179008736550921/croot/pywinpty_1790087782541/work/pywinpty-src
+PyYAML @ file:///C:/miniconda3/conda-bld/pyyaml_1763465513644/work
+pyzmq @ file:///C:/Users/task_178939058067726/croot/pyzmq_1789390658936/work
+referencing @ file:///C:/miniconda3/conda-bld/referencing_1762536906371/work
+regex==2026.9.29
+requests @ file:///C:/Users/task_179138610685151/croot/requests_1791386664499/work
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+rfc3339_validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3339-validator_1729040163441/work
+rfc3986_validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3986-validator_1729040192034/work
+rich==15.0.0
+rpds-py @ file:///C:/Users/task_179217372354467/croot/rpds-py_1792173824089/work
+Send2Trash @ file:///C:/Users/task_179249305503667/croot/send2trash_1792493697574/work
+setuptools==84.0.0
+shellingham==1.5.4
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+sniffio==1.3.1
+soupsieve @ file:///C:/Users/task_178998638551480/croot/soupsieve_1789986464604/work
+SQLAlchemy==2.1.6
+stack_data @ file:///C:/miniconda3/conda-bld/stack_data_1757067051197/work
+tenacity==9.2.1
+terminado @ file:///C:/Users/task_176959133060638/croot/terminado_1769591780567/work
+tiktoken==0.14.0
+tinycss2 @ file:///C:/miniconda3/conda-bld/tinycss2_1764949124329/work
+tokenizers==0.23.3
+tornado @ file:///C:/Users/task_179085155445448/croot/tornado_1790852164881/work
+tqdm==4.70.1
+traitlets @ file:///C:/Users/task_179301274041930/croot/traitlets_1793012887319/work
+truststore==0.10.5
+typer==0.27.3
+typing-inspection==0.4.4
+typing_extensions @ file:///C:/Users/task_NTbsUE0ORCuqz_0/croot/typing_extensions_1784101061373/work
+tzdata==2026.5
+urllib3 @ file:///C:/Users/task_179070049498041/croot/urllib3_1790701126925/work
+uuid_utils==0.19.0
+uvicorn==0.54.0
+watchfiles==1.3.0
+wcwidth @ file:///C:/Users/task_179249384228431/croot/wcwidth_1792493922804/work
+webencodings @ file:///C:/Users/task_178843757581429/croot/webencodings_1788437958640/work
+websocket-client @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/websocket-client_1729041881346/work
+websockets==17.3
+wheel==0.48.0
+win_inet_pton @ file:///C:/miniconda3/conda-bld/win_inet_pton_1761746278300/work
+xxhash==4.0.2
+yarl==1.25.1
+zstandard==0.25.0

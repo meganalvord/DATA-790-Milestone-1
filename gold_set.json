@@ -1,0 +1,360 @@
+[
+    {
+        "query": "How is carotenoid bioaccessibility defined?",
+        "expected_sources": [
+            {
+                "source": "rag_sp3.pdf",
+                "page": 4
+            }
+        ]
+    },
+    {
+        "query": "Who maintains the US sweetpotato germplasm collection?",
+        "expected_sources": [
+            {
+                "source": "rag_sp7.pdf",
+                "page": 1
+            }
+        ]
+    },
+    {
+        "query": "What has lead to the reemergence of black rot in North Carolina sweet potatoes?",
+        "expected_sources": [
+            {
+                "source": "rag_sp2.pdf",
+                "page": 6
+            },
+            {
+                "source": "rag_sp4.pdf",
+                "page": 12
+            }
+        ]
+    },
+    {
+        "query": "How many sweet potatoes did the US produce in 2000?",
+        "expected_sources": [
+            {
+                "source": "rag_sp6.pdf",
+                "page": 0
+            }
+        ]
+    },
+    {
+        "query": "What are signs of weevil infestation in sweet potatoes?",
+        "expected_sources": [
+            {
+                "source": "rag_sp4.pdf",
+                "page": 10
+            }
+        ]
+    },
+    {
+        "query": "What is the impact of rising atmospheric carbon dioxide on sweet potatoes?",
+        "expected_sources": [
+            {
+                "source": "rag_sp4.pdf",
+                "page": 16
+            }
+        ]
+    },
+    {
+        "query": "Who is the top global producer of sweet potatoes?",
+        "expected_sources": [
+            {
+                "source": "rag_sp6.pdf",
+                "page": 4
+            }
+        ]
+    },
+    {
+        "query": "Is there a difference when planting sweet potatoes via slips versus via root pieces in experimental results?",
+        "expected_sources": [
+            {
+                "source": "rag_sp1.pdf",
+                "page": 6
+            }
+        ]
+    },
+    {
+        "query": "What are the best sources for vitamin A?",
+        "expected_sources": [
+            {
+                "source": "rag_sp3.pdf",
+                "page": 2
+            }
+        ]
+    },
+    {
+        "query": "What are the results of the UDSA sweet potato breeding program?",
+        "expected_sources": [
+            {
+                "source": "rag_sp7.pdf",
+                "page": 10
+            }
+        ]
+    },
+    {
+        "query": "What environmental conditions should be minimized to prevent geotrichum sour rot in sweetpotatoes during cultivation and storage?",
+        "expected_sources": [
+            {
+                "source": "sp_wp2.htm",
+                "section_idx": 16
+            }
+        ],
+        "reference_answer": "To prevent geotrichum sour rot in sweetpotatoes, exposure to high moisture, high temperature, and low oxygen environments should be minimized in both the field and storage areas.",
+        "origin": "generated"
+    },
+    {
+        "query": "Which fungicide active ingredient has been demonstrated to effectively control sweetpotato scurf when applied to seed roots during bedding?",
+        "expected_sources": [
+            {
+                "source": "sp_wb5.htm",
+                "section_idx": 16
+            }
+        ],
+        "reference_answer": "The active ingredient dicloran has shown good efficacy for controlling sweetpotato scurf when used on seed roots during bedding.",
+        "origin": "generated"
+    },
+    {
+        "query": "What precautions should individuals take before applying agricultural chemicals according to the guidelines provided?",
+        "expected_sources": [
+            {
+                "source": "sp_wb4.htm",
+                "section_idx": 24
+            }
+        ],
+        "reference_answer": "Individuals should ensure that the intended use of agricultural chemicals complies with current regulations and matches the product label, obtain current information about usage regulations, and examine a current product label before application.",
+        "origin": "generated"
+    },
+    {
+        "query": "What precautions should be taken to prevent the introduction of root knot nematodes into seed and production fields?",
+        "expected_sources": [
+            {
+                "source": "sp_wb4.htm",
+                "section_idx": 14
+            }
+        ],
+        "reference_answer": "To prevent the introduction of root knot nematodes, plant in pathogen-free fields, use certified seed, ensure irrigation water comes from non-infested sites, plant seed roots only in sites without nematode issues, cut slips above the soil line without roots or soil attached, sanitize equipment used in infested fields, and have workers wear shoe covers or sanitize shoes and clothing after working in infested fields.",
+        "origin": "generated"
+    },
+    {
+        "query": "Which species of root knot nematode has developed the ability to overcome resistance genes that were previously effective against another species?",
+        "expected_sources": [
+            {
+                "source": "sp_wb4.htm",
+                "section_idx": 6
+            }
+        ],
+        "reference_answer": "Meloidogyne enterolobii has been able to overcome some of the resistance genes that were previously effective against Meloidogyne incognita.",
+        "origin": "generated"
+    },
+    {
+        "query": "What type of information can soil samples provide about nematodes, and under what condition can they indicate the presence of specific nematodes?",
+        "expected_sources": [
+            {
+                "source": "sp_wb4.htm",
+                "section_idx": 8
+            }
+        ],
+        "reference_answer": "Soil samples can provide information about the number of nematodes present in the soil, and they can indicate the presence of specific nematodes if this service is specifically requested in the soil samples submission form.",
+        "origin": "generated"
+    },
+    {
+        "query": "Who holds the position of WNR Distinguished Professor specializing in cucurbits and sweetpotato plant pathology?",
+        "expected_sources": [
+            {
+                "source": "sp_wb3.htm",
+                "section_idx": 22
+            }
+        ],
+        "reference_answer": "Lina Quesada-Ocampo is the WNR Distinguished Professor specializing in plant pathology of cucurbits and sweetpotato.",
+        "origin": "generated"
+    },
+    {
+        "query": "How does the scurf pathogen primarily spread to sweet potato plants, and what practices increase the risk of this transmission?",
+        "expected_sources": [
+            {
+                "source": "sp_wb5.htm",
+                "section_idx": 12
+            }
+        ],
+        "reference_answer": "The scurf pathogen primarily spreads through infested soil that contacts wounded plant tissue, which often happens when slips are pulled instead of cut at least 1 inch above the soil line or when unsanitized tools are used to cut slips.",
+        "origin": "generated"
+    },
+    {
+        "query": "What types of discrimination and harassment does the N.C. Cooperative Extension explicitly prohibit?",
+        "expected_sources": [
+            {
+                "source": "sp_wp1.htm",
+                "section_idx": 26
+            }
+        ],
+        "reference_answer": "The N.C. Cooperative Extension prohibits discrimination and harassment based on age, color, disability, family and marital status, gender identity, national origin, political beliefs, race, religion, sex (including pregnancy), sexual orientation, and veteran status.",
+        "origin": "generated"
+    },
+    {
+        "query": "What are the characteristics and conditions under which the fungus affecting sweetpotato skin produces spores, and how can it be identified?",
+        "expected_sources": [
+            {
+                "source": "sp_wb5.htm",
+                "section_idx": 8
+            }
+        ],
+        "reference_answer": "The fungus grows only in the skin of the sweetpotato and produces spores on the surface under high humidity conditions, such as during storage. It is identified by observing chains of spores on the surface of the lesions, which require a hand lens or microscope to see. The diseased areas are purple or grayish-brown to black, only affect the skin, and enlarge slowly during storage. Typically, only a few scattered lesions appear on the root, but severe cases can affect almost the entire surface. In the field, the fungus attacks only the underground portions of sweetpotatoes.",
+        "origin": "generated"
+    },
+    {
+        "query": "For the clone labeled NCP19-0178 in the lab set TMA_BC-090, what is the amount of Peonidin measured in mg per 100g dry weight?",
+        "expected_sources": [
+            {
+                "source": "sp_table3.csv",
+                "row": 89
+            }
+        ],
+        "reference_answer": "The amount of Peonidin for clone NCP19-0178 in lab set TMA_BC-090 is 127.63 mg per 100g dry weight.",
+        "origin": "generated"
+    },
+    {
+        "query": "What is the width of the leaf in centimeters for Kumara Enua with the GRIN Database PI Accession PI 344140?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 44
+            }
+        ],
+        "reference_answer": "9.652",
+        "origin": "generated"
+    },
+    {
+        "query": "For the clone labeled NCP15-0007 in the TMA_BC-011 lab set, what is the amount of Peonidin measured in mg per 100 grams dry weight?",
+        "expected_sources": [
+            {
+                "source": "sp_table3.csv",
+                "row": 10
+            }
+        ],
+        "reference_answer": "171.85 mg/100g dw",
+        "origin": "generated"
+    },
+    {
+        "query": "What is the average measurement of the abaxial leaf vein pigmentation for the Minamiyutaka variety?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 470
+            }
+        ],
+        "reference_answer": "7.666666667",
+        "origin": "generated"
+    },
+    {
+        "query": "What is the number of leaf points on the Kokei No 14 plant?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 549
+            }
+        ],
+        "reference_answer": "6",
+        "origin": "generated"
+    },
+    {
+        "query": "For the plant with the GRIN Database PI Accession PI 585082, what is the width of its leaf in centimeters?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 387
+            }
+        ],
+        "reference_answer": "9.863666667",
+        "origin": "generated"
+    },
+    {
+        "query": "For the plant known as Blanco local with the USVL code G-144, what is the measurement of its leaf width in centimeters?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 127
+            }
+        ],
+        "reference_answer": "12.27666667",
+        "origin": "generated"
+    },
+    {
+        "query": "What is the average width of the leaves for the Los Cerrillas variety with PI Accession PI 633442?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 565
+            }
+        ],
+        "reference_answer": "The average leaf width for Los Cerrillas with PI Accession PI 633442 is 11.85333333 cm.",
+        "origin": "generated"
+    },
+    {
+        "query": "For the plant known as Resisto with the USVL code G-333, what is the width of its leaf in centimeters?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 300
+            }
+        ],
+        "reference_answer": "14.478",
+        "origin": "generated"
+    },
+    {
+        "query": "For the clone labeled NCP06-0020, what is the amount of Cyanidin measured in mg per 100g dry weight?",
+        "expected_sources": [
+            {
+                "source": "sp_table3.csv",
+                "row": 112
+            }
+        ],
+        "reference_answer": "315.6",
+        "origin": "generated"
+    },
+    {
+        "query": "For the plant known as W-51-19, what is the average number of leaf points it has?",
+        "expected_sources": [
+            {
+                "source": "sp_table2.csv",
+                "row": 643
+            }
+        ],
+        "reference_answer": "5.333333333",
+        "origin": "generated"
+    },
+    {
+        "query": "What health benefits are associated with the carotenoids found in yellow-fleshed sweetpotatoes?",
+        "expected_sources": [
+            {
+                "source": "rag_sp4.pdf",
+                "page": 2
+            }
+        ],
+        "reference_answer": "Carotenoids in yellow-fleshed sweetpotatoes help reduce metabolic oxidative stress, support the immune system, and lower the risks of cancer and cardiovascular diseases.",
+        "origin": "generated"
+    },
+    {
+        "query": "What is the main focus of the 2024 article by George et al. published in Agronomy Journal?",
+        "expected_sources": [
+            {
+                "source": "rag_sp4.pdf",
+                "page": 30
+            }
+        ],
+        "reference_answer": "The article focuses on sustainable sweetpotato production in the United States, discussing its current status, challenges, and opportunities.",
+        "origin": "generated"
+    },
+    {
+        "query": "What were the comparative advantages and disadvantages of the sweetpotato clones tested in terms of dry matter content and yield potential?",
+        "expected_sources": [
+            {
+                "source": "rag_sp1.pdf",
+                "page": 6
+            }
+        ],
+        "reference_answer": "The sweetpotato clones achieved dry matter contents 10% to 15% higher than Beauregard but had lower yield potential, resulting in carbohydrate yields per unit land area that were not as high as expected.",
+        "origin": "generated"
+    }
+]
