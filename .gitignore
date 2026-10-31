@@ -2,3 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 chroma_db/
+corpus/new_files/proquest/
+corpus/new_files/manifest.jsonl
+corpus/original_files/
+corpus/new_files/wikipedia/

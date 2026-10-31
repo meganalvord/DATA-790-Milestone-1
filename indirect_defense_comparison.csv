@@ -1,0 +1,9 @@
+attack_id,baseline_success,sanitization_success,layered_success
+A05,True,False,False
+A06,False,False,False
+A07,True,False,False
+A08,False,False,False
+A09,True,False,False
+A18,True,False,False
+A19,False,False,False
+A20,True,False,False

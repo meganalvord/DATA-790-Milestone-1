@@ -17,3 +17,6 @@ pydantic
 tiktoken
 protobuf
 blinker
+openai
+requests
+nbconvert
