@@ -28,8 +28,6 @@ git clone https://github.com/meganalvord/DATA-790-Milestone-1
 cd DATA-790-Milestone-1
 ```
 
-Replace `YOUR_USERNAME` with the GitHub username associated with this repository.
-
 **2. Install Python dependencies**
 
 ```bash
