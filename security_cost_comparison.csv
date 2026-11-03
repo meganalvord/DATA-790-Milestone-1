@@ -1,69 +1,69 @@
 question,baseline_tokens,defended_tokens,baseline_cost,defended_cost,baseline_latency,defended_latency,status
-How is carotenoid bioaccessibility defined?,941,1088,0.0004988,0.0006008000000000001,1.69680740009062,2.3334543999517336,completed
-Who maintains the US sweetpotato germplasm collection?,760,922,0.0003508,0.0004732,0.971183400019072,1.4987417999655008,completed
-What has lead to the reemergence of black rot in North Carolina sweet potatoes?,939,1089,0.0005496,0.0006456000000000001,1.9263933999463916,1.9356682000216097,completed
-How many sweet potatoes did the US produce in 2000?,688,833,0.0003052,0.00039920000000000005,1.154464800027199,1.0882369000464678,completed
-What are signs of weevil infestation in sweet potatoes?,947,1071,0.00048320000000000004,0.000546,1.1253068000078201,1.6460063999984413,completed
-What is the impact of rising atmospheric carbon dioxide on sweet potatoes?,879,1028,0.0005844,0.0006848000000000001,1.966033700038679,2.89503929996863,completed
-Who is the top global producer of sweet potatoes?,769,910,0.0003556000000000001,0.0004468,1.0701469000196084,1.4394516999600455,completed
-Is there a difference when planting sweet potatoes via slips versus via root pieces in experimental results?,856,1011,0.00046360000000000005,0.0005676,1.5693438000744209,1.857069700025022,completed
-What are the best sources for vitamin A?,1076,1143,0.0006404000000000001,0.0006144000000000001,1.6928656999953091,1.827045499929227,completed
-What are the results of the UDSA sweet potato breeding program?,1090,1244,0.0007312,0.0008384,1.8048950999509543,2.72928840003442,completed
-What environmental conditions should be minimized to prevent geotrichum sour rot in sweetpotatoes during cultivation and storage?,671,868,0.00038600000000000006,0.0005512000000000001,1.078092599986121,2.0184457999421284,completed
-Which fungicide active ingredient has been demonstrated to effectively control sweetpotato scurf when applied to seed roots during bedding?,635,798,0.000284,0.0003936,1.7136069000698626,1.448034399887547,completed
-What precautions should individuals take before applying agricultural chemicals according to the guidelines provided?,536,694,0.00032240000000000003,0.00043480000000000005,0.8826252999715507,1.9949186000740156,completed
-What precautions should be taken to prevent the introduction of root knot nematodes into seed and production fields?,873,1018,0.0006384000000000001,0.0007228,1.8914287000661716,3.170113499974832,completed
-Which species of root knot nematode has developed the ability to overcome resistance genes that were previously effective against another species?,799,965,0.0003556000000000001,0.00047000000000000004,0.7633594000944868,1.4987694000592455,completed
-"What type of information can soil samples provide about nematodes, and under what condition can they indicate the presence of specific nematodes?",511,679,0.000286,0.00039880000000000004,0.9092960000270978,1.676707400009036,completed
-Who holds the position of WNR Distinguished Professor specializing in cucurbits and sweetpotato plant pathology?,381,541,0.0001848,0.00029319999999999997,0.9666757999220863,1.5314030000008643,completed
-"How does the scurf pathogen primarily spread to sweet potato plants, and what practices increase the risk of this transmission?",678,842,0.00039840000000000003,0.0005108000000000001,1.2389479000121355,1.968452199944295,completed
-What types of discrimination and harassment does the N.C. Cooperative Extension explicitly prohibit?,330,481,0.00019080000000000003,0.0002908,0.94302779994905,1.3335489999735728,completed
-"What are the characteristics and conditions under which the fungus affecting sweetpotato skin produces spores, and how can it be identified?",802,1056,0.0004972,0.0007512,1.4256222000112757,2.3122205999679863,completed
-"For the clone labeled NCP19-0178 in the lab set TMA_BC-090, what is the amount of Peonidin measured in mg per 100g dry weight?",522,698,0.0002676,0.00038,0.7068916000425816,1.4714343000669032,completed
-What is the width of the leaf in centimeters for Kumara Enua with the GRIN Database PI Accession PI 344140?,546,716,0.00025320000000000003,0.0003704,0.631281099980697,1.667125399922952,completed
-"For the clone labeled NCP15-0007 in the TMA_BC-011 lab set, what is the amount of Peonidin measured in mg per 100 grams dry weight?",559,739,0.0002788,0.0003976,0.9417087999172509,1.7694640000117943,completed
-What is the average measurement of the abaxial leaf vein pigmentation for the Minamiyutaka variety?,556,724,0.0002596,0.00037959999999999996,0.9557275000261143,1.5705214000772685,completed
-What is the number of leaf points on the Kokei No 14 plant?,519,678,0.00022920000000000001,0.00034080000000000004,0.7701894000638276,1.2679957000073045,completed
-"For the plant with the GRIN Database PI Accession PI 585082, what is the width of its leaf in centimeters?",586,762,0.0002776,0.0004056,0.7839118000119925,1.4795899000018835,completed
-"For the plant known as Blanco local with the USVL code G-144, what is the measurement of its leaf width in centimeters?",526,696,0.0002428,0.00035999999999999997,0.7197888999944553,1.3637108000693843,completed
-What is the average width of the leaves for the Los Cerrillas variety with PI Accession PI 633442?,568,740,0.0002596,0.00038480000000000003,0.7411208999110386,1.2028149999678135,completed
-"For the plant known as Resisto with the USVL code G-333, what is the width of its leaf in centimeters?",552,722,0.00025320000000000003,0.00037160000000000003,0.6689314000541344,1.291753500001505,completed
-"For the clone labeled NCP06-0020, what is the amount of Cyanidin measured in mg per 100g dry weight?",487,671,0.0002296,0.000368,0.8696342000039294,1.4507808999624103,completed
-"For the plant known as W-51-19, what is the average number of leaf points it has?",556,722,0.00025120000000000003,0.00036800000000000005,0.8912040999857709,1.187021299963817,completed
-What health benefits are associated with the carotenoids found in yellow-fleshed sweetpotatoes?,817,981,0.0003988,0.0005148,0.8624390999320894,2.0158542999997735,completed
-What is the main focus of the 2024 article by George et al. published in Agronomy Journal?,210,372,0.0001092,0.00021960000000000003,0.888914700015448,1.5512636000057682,completed
-What were the comparative advantages and disadvantages of the sweetpotato clones tested in terms of dry matter content and yield potential?,1100,1262,0.0008192000000000001,0.0009272,2.597048499970697,3.512816100032069,completed
-How did the water content of sweet potato flour vary between the purple color skin and light cream color skin varieties under different fertilization treatments?,1164,1335,0.0007620000000000001,0.0008807999999999999,3.4563792999833822,4.555760800023563,completed
-"What changes in chlorophyll a fluorescence parameters indicate photosynthetic stress in sweet potato genotypes attacked by Bedellia somnulentella, and which genotypes did not show this change?",1003,1205,0.0007324,0.0008888000000000001,2.604052899987437,3.2876282999059185,completed
-What technologies are integrated into early warning systems to monitor and predict pest and disease outbreaks in sweet potato cultivation?,690,862,0.00036960000000000004,0.0004971999999999999,1.8881332000019029,2.182336200028658,completed
-Which soybean and sweet potato intercropping combination produced the highest grain weight in kilograms per hectare during the 2023/2024 growing season?,1234,1402,0.0005595999999999999,0.0006712,0.9870902999537066,2.0006767000304535,completed
-What were the three main factors that contributed to the significant increase in yield over three years in the INIVIT program?,853,1025,0.0005212,0.0006452000000000001,1.6083156999666244,3.1772354000713676,completed
-What are some of the major viruses that infect sweet potato plants and how do co-infections affect disease severity?,937,1108,0.0006544000000000001,0.0007792000000000001,2.8391088999342173,4.675435599987395,completed
-What impact do mineral fertilizers have on the yield of sweet potato tuberous roots?,885,1036,0.0005052,0.000604,1.9411441999254748,3.11708970007021,completed
-What are the benefits of intercropping sweet potato with maize in dry land farming in Southwest China?,1025,1152,0.0006752,0.0007536,1.7732147999340668,2.7213212000206113,completed
-What factors contribute to the differences in phytochemical profiles observed in studies analyzing plant extracts?,983,1173,0.0006356,0.0007968000000000001,1.9976959000341594,3.264814499998465,completed
-"How do soil fertility and physical structure affect sucrose metabolism and lignin biosynthesis in sweet potatoes, and what impact does this have on yield and nutrient accumulation?",822,998,0.000528,0.0006488,1.6903801000444219,2.2466466000769287,completed
-What are some distinguishing features of sweet potato leaves and petioles that help in identifying different cultivars?,1105,1306,0.0007852,0.0009592000000000001,2.3352285999571905,3.31581910001114,completed
-Which bacterial genera are known for their ability to break down complex or hard-to-degrade compounds in soil?,1042,1197,0.0005056,0.000606,0.9709655999904498,2.405178499990143,completed
-Who shared the 2016 World Food Prize with Mwanga for their work on biofortification?,527,689,0.0002516,0.0003644,0.6976254000328481,1.5757193999597803,completed
-"What evidence suggests that early inhabitants of New Guinea practiced agriculture independently around 28,000 years ago?",576,760,0.00033600000000000004,0.00048399999999999995,1.4935889000771567,1.8384130001068115,completed
-"Which species of morning glory were traditionally used by indigenous peoples in Mexico for spiritual or ritual purposes, and what psychoactive compounds do their seeds contain?",817,991,0.0005572000000000001,0.0006784,1.8747156000463292,2.8342562000034377,completed
-"Why do subsistence farmers sometimes leave sweet potatoes in the ground after harvest, and what are the limitations of this practice?",664,834,0.0004984,0.0006192000000000001,1.7544039000058547,2.3724023000104353,completed
-"What are some ways sweet potatoes are utilized in Korean cuisine, including dishes and beverages?",759,918,0.0006144000000000001,0.0007260000000000001,2.304465499939397,2.9094509000424296,completed
-Why do some experts recommend writing 'sweetpotato' as a single word rather than two separate words?,941,1112,0.00047000000000000004,0.000596,0.9711435999488458,1.550308300065808,completed
-"What traditional medicinal uses are associated with certain Ipomoea species, and what health benefits do the leaves of Ipomoea batatas provide?",1050,1233,0.0007116000000000001,0.000846,3.6093018000246957,2.7943594000535086,completed
-What makes Imo Shochu a unique type of distilled spirit compared to other alcoholic beverages worldwide?,594,664,0.0004908,0.00045760000000000006,1.8756196000613272,2.0257100999588147,completed
-What nutritional components and factors influence the quality of sweet potato leaves as a food source?,975,1124,0.0007788000000000001,0.0008744,2.3015945999650285,3.14391300000716,completed
-"What soil conditions and treatments are important for successfully cultivating sweet potatoes, and how do their growth characteristics affect weed control?",1105,1258,0.0008596,0.0009544,2.336477900040336,2.9811513000167906,completed
-Why were soft sweet potatoes called yams by enslaved Africans in the Americas?,563,727,0.0002804,0.00040120000000000005,0.7053048999514431,1.6171890000114217,completed
-What is the primary method used to confirm the presence of viruses causing sweet potato virus disease?,677,829,0.000326,0.00042520000000000004,1.3102254000259563,1.4153987999306992,completed
-"Which shochu brand has the largest market share in the Miyazaki prefecture overall, and what percentage of the market does it hold?",806,968,0.00040160000000000006,0.0005036,1.2056829000357538,2.490348199964501,completed
-"What nutritional benefits do sweet potatoes with dark orange flesh provide compared to those with lighter flesh, and why is their cultivation promoted in Africa?",890,1067,0.000506,0.0006344,1.2723138999426737,1.8787996000610292,completed
-"What temperature range promotes the growth and sporulation of the disease affecting sweet potatoes, and why should pre-sprouting roots at warm temperatures be avoided?",688,877,0.00037240000000000005,0.0005164,0.9058926000725478,1.7064321000361815,completed
-What factors contributed to the decline in importance of kūmara as a crop in New Zealand during the late 18th and 19th centuries?,968,1127,0.0007148,0.0008108,2.106578700011596,2.413477099966258,completed
-What will be the leading cause of sweet potato crop losses in North Carolina in 2035?,778,934,0.00043000000000000004,0.0005344,1.2657322000013664,1.7006957000121474,completed
-"How many acres of sweet potatoes were harvested in Siler City, North Carolina, in 2025?",626,795,0.00029840000000000004,0.0004392,0.8930050999624655,2.7258399999700487,completed
-Which sweet potato cultivar generated the highest net profit for North Carolina farmers in 2024?,730,869,0.00031959999999999996,0.00041600000000000003,0.7410211999667808,1.2565279999980703,completed
-Which sweet potato researcher has received the most international research awards as of 2026?,732,899,0.0003192,0.00044360000000000005,0.6544387999456376,1.2731937000062317,completed
-What percentage increase in sweet potato yield resulted from applying a newly developed fertilizer called SP-GrowthMax in controlled field trials?,801,967,0.000378,0.0004924,0.902420699945651,1.639687400078401,completed
-What was the average improvement in sweet potato shelf life when stored under blue LED lighting compared with conventional dark storage?,591,760,0.00030240000000000003,0.000424,0.970904599991627,1.762740100035444,completed
+How is carotenoid bioaccessibility defined?,945,1170,0.0005052,0.0006264,1.468157199997222,1.9442154999997001,completed
+Who maintains the US sweetpotato germplasm collection?,754,1056,0.00034120000000000005,0.0005808,0.9717053999920608,1.8133963000000222,completed
+What has lead to the reemergence of black rot in North Carolina sweet potatoes?,938,1221,0.0005480000000000001,0.00075,1.8494842999934917,2.7575849999993807,completed
+How many sweet potatoes did the US produce in 2000?,688,921,0.0003052,0.00043440000000000004,0.900417800003197,1.5521901000029175,completed
+What are signs of weevil infestation in sweet potatoes?,913,1173,0.0004288,0.0006036000000000001,0.9806683999922825,1.7988245000015013,completed
+What is the impact of rising atmospheric carbon dioxide on sweet potatoes?,873,1160,0.0005748,0.0007892,2.2349173999973573,3.6373248000018066,completed
+Who is the top global producer of sweet potatoes?,769,1015,0.0003556000000000001,0.0005080000000000001,0.7154163999948651,1.8227122999960557,completed
+Is there a difference when planting sweet potatoes via slips versus via root pieces in experimental results?,856,1117,0.00046360000000000005,0.0006316000000000001,1.6140084999933606,2.4700989999982994,completed
+What are the best sources for vitamin A?,1064,1255,0.0006212,0.000688,1.8201204999932088,2.1763990000035847,completed
+What are the results of the UDSA sweet potato breeding program?,1077,1340,0.0007104,0.0008864000000000001,1.929035199995269,3.144939300007536,completed
+What environmental conditions should be minimized to prevent geotrichum sour rot in sweetpotatoes during cultivation and storage?,692,938,0.00041960000000000006,0.0005576000000000001,1.7629501999908825,1.863013399997726,completed
+Which fungicide active ingredient has been demonstrated to effectively control sweetpotato scurf when applied to seed roots during bedding?,637,935,0.0002872,0.000506,0.7163830999925267,1.9871252000011737,completed
+What precautions should individuals take before applying agricultural chemicals according to the guidelines provided?,536,776,0.00032240000000000003,0.0004604,2.3718717000010656,2.3695318000100087,completed
+What precautions should be taken to prevent the introduction of root knot nematodes into seed and production fields?,818,1123,0.0005504,0.000784,1.9320338999968953,2.699040400009835,completed
+Which species of root knot nematode has developed the ability to overcome resistance genes that were previously effective against another species?,802,1064,0.0003604000000000001,0.0005216000000000001,0.8232107999938307,1.9531809999898542,completed
+"What type of information can soil samples provide about nematodes, and under what condition can they indicate the presence of specific nematodes?",512,750,0.0002876,0.00040560000000000005,0.9936951999989105,1.8466393999988213,completed
+Who holds the position of WNR Distinguished Professor specializing in cucurbits and sweetpotato plant pathology?,381,635,0.0001848,0.0003368,0.825289000000339,2.124715700003435,completed
+"How does the scurf pathogen primarily spread to sweet potato plants, and what practices increase the risk of this transmission?",675,1014,0.0003936,0.0006792,1.460433499989449,2.4607906000019284,completed
+What types of discrimination and harassment does the N.C. Cooperative Extension explicitly prohibit?,330,576,0.00019080000000000003,0.00033600000000000004,0.9249884999881033,1.449293800003943,completed
+"What are the characteristics and conditions under which the fungus affecting sweetpotato skin produces spores, and how can it be identified?",831,1114,0.0005436,0.0007372,1.7566633999958867,2.49157600000035,completed
+"For the clone labeled NCP19-0178 in the lab set TMA_BC-090, what is the amount of Peonidin measured in mg per 100g dry weight?",522,798,0.0002676,0.0004332,0.8922336999967229,2.0221883000049274,completed
+What is the width of the leaf in centimeters for Kumara Enua with the GRIN Database PI Accession PI 344140?,546,797,0.00025320000000000003,0.0003932,1.0720478000002913,1.245272300002398,completed
+"For the clone labeled NCP15-0007 in the TMA_BC-011 lab set, what is the amount of Peonidin measured in mg per 100 grams dry weight?",559,872,0.0002788,0.0005036,0.826826999997138,2.397700600005919,completed
+What is the average measurement of the abaxial leaf vein pigmentation for the Minamiyutaka variety?,557,824,0.0002612,0.0004328,0.8565479999961099,1.657765500000096,completed
+What is the number of leaf points on the Kokei No 14 plant?,519,765,0.00022920000000000001,0.0003732,0.6193657999974675,1.2928028000023915,completed
+"For the plant with the GRIN Database PI Accession PI 585082, what is the width of its leaf in centimeters?",586,848,0.0002776,0.00043640000000000004,0.7578337000013562,1.4543638000031933,completed
+"For the plant known as Blanco local with the USVL code G-144, what is the measurement of its leaf width in centimeters?",526,783,0.0002428,0.0003924,0.8285949999990407,1.280538399994839,completed
+What is the average width of the leaves for the Los Cerrillas variety with PI Accession PI 633442?,568,821,0.0002596,0.00040760000000000004,1.1099472000059905,1.5111271000059787,completed
+"For the plant known as Resisto with the USVL code G-333, what is the width of its leaf in centimeters?",552,807,0.00025320000000000003,0.00040080000000000004,0.8070559000043431,1.5203331999946386,completed
+"For the clone labeled NCP06-0020, what is the amount of Cyanidin measured in mg per 100g dry weight?",487,755,0.0002296,0.0003956,0.7468725000071572,1.4017486999946414,completed
+"For the plant known as W-51-19, what is the average number of leaf points it has?",555,806,0.0002496,0.0003956,0.7334789999877103,1.4661129000014625,completed
+What health benefits are associated with the carotenoids found in yellow-fleshed sweetpotatoes?,817,1093,0.0003988,0.0005872000000000001,0.8665097000048263,1.7673706999921706,completed
+What is the main focus of the 2024 article by George et al. published in Agronomy Journal?,210,486,0.0001092,0.0002952,0.6833084999962011,1.457387500006007,completed
+What were the comparative advantages and disadvantages of the sweetpotato clones tested in terms of dry matter content and yield potential?,1117,1352,0.0008464000000000001,0.0009644000000000001,3.2283471999980975,2.883900300003006,completed
+How did the water content of sweet potato flour vary between the purple color skin and light cream color skin varieties under different fertilization treatments?,1164,1415,0.0007620000000000001,0.0009032,3.0001081000082195,3.1643516999902204,completed
+"What changes in chlorophyll a fluorescence parameters indicate photosynthetic stress in sweet potato genotypes attacked by Bedellia somnulentella, and which genotypes did not show this change?",995,1361,0.0007196,0.0010316000000000001,2.7477918000076897,3.760768799998914,completed
+What technologies are integrated into early warning systems to monitor and predict pest and disease outbreaks in sweet potato cultivation?,690,981,0.00036960000000000004,0.0005808,1.2331715000036638,3.1367426000069827,completed
+Which soybean and sweet potato intercropping combination produced the highest grain weight in kilograms per hectare during the 2023/2024 growing season?,1234,1579,0.0005595999999999999,0.0008476,0.7750184000033187,2.526056599992444,completed
+What were the three main factors that contributed to the significant increase in yield over three years in the INIVIT program?,854,1131,0.0005228,0.0007092000000000001,1.8971361000003526,2.6050146000052337,completed
+What are some of the major viruses that infect sweet potato plants and how do co-infections affect disease severity?,969,1203,0.0007056,0.0008244000000000001,4.871925999992527,3.0002017999941017,completed
+What impact do mineral fertilizers have on the yield of sweet potato tuberous roots?,912,1190,0.0005484000000000001,0.0007448000000000001,1.9440928999974858,2.7656251000007614,completed
+What are the benefits of intercropping sweet potato with maize in dry land farming in Southwest China?,1027,1364,0.0006784,0.0009872,2.0459255000023404,22.70115980000992,completed
+What factors contribute to the differences in phytochemical profiles observed in studies analyzing plant extracts?,996,1273,0.0006564,0.0008512000000000001,2.0428568000061205,3.2764789999928325,completed
+"How do soil fertility and physical structure affect sucrose metabolism and lignin biosynthesis in sweet potatoes, and what impact does this have on yield and nutrient accumulation?",816,1154,0.0005184,0.0007928,1.8527893999998923,2.842698799999198,completed
+What are some distinguishing features of sweet potato leaves and petioles that help in identifying different cultivars?,1105,1442,0.0007852,0.0010712,2.7452672999934293,4.466264799993951,completed
+Which bacterial genera are known for their ability to break down complex or hard-to-degrade compounds in soil?,1042,1300,0.0005056,0.0006640000000000001,1.2311415000003763,2.231479499998386,completed
+Who shared the 2016 World Food Prize with Mwanga for their work on biofortification?,527,777,0.0002516,0.0003996,0.9176139000046533,1.656119100007345,completed
+"What evidence suggests that early inhabitants of New Guinea practiced agriculture independently around 28,000 years ago?",604,842,0.00038080000000000004,0.0005096,1.220301900000777,2.0842364999989513,completed
+"Which species of morning glory were traditionally used by indigenous peoples in Mexico for spiritual or ritual purposes, and what psychoactive compounds do their seeds contain?",815,1087,0.000554,0.0007264000000000001,4.496074599999702,2.9107256999996025,completed
+"Why do subsistence farmers sometimes leave sweet potatoes in the ground after harvest, and what are the limitations of this practice?",642,904,0.00046320000000000004,0.0006256,1.6858279000007315,3.304914499996812,completed
+"What are some ways sweet potatoes are utilized in Korean cuisine, including dishes and beverages?",762,980,0.0006192000000000001,0.0007196,2.604042599996319,3.3430481999967014,completed
+Why do some experts recommend writing 'sweetpotato' as a single word rather than two separate words?,948,1183,0.0004812000000000001,0.000604,1.0859780000027968,2.029553299988038,completed
+"What traditional medicinal uses are associated with certain Ipomoea species, and what health benefits do the leaves of Ipomoea batatas provide?",1050,1388,0.0007116000000000001,0.0009884,2.0138401000003796,6.333490599994548,completed
+What makes Imo Shochu a unique type of distilled spirit compared to other alcoholic beverages worldwide?,510,784,0.0003564,0.000544,1.7352648999949452,3.2289941999915754,completed
+What nutritional components and factors influence the quality of sweet potato leaves as a food source?,963,1194,0.0007596,0.0008807999999999999,3.6433671999984654,3.3523569999961182,completed
+"What soil conditions and treatments are important for successfully cultivating sweet potatoes, and how do their growth characteristics affect weed control?",1115,1357,0.0008755999999999999,0.001006,2.9913123000005726,4.154749000008451,completed
+Why were soft sweet potatoes called yams by enslaved Africans in the Americas?,561,804,0.0002772,0.00041880000000000004,1.1619891000009375,1.9024333999986993,completed
+What is the primary method used to confirm the presence of viruses causing sweet potato virus disease?,676,950,0.0003244,0.0005120000000000001,1.06918149998819,1.5404192999994848,completed
+"Which shochu brand has the largest market share in the Miyazaki prefecture overall, and what percentage of the market does it hold?",806,1069,0.00040160000000000006,0.0005596,1.2431815000018105,2.2190453999937745,completed
+"What nutritional benefits do sweet potatoes with dark orange flesh provide compared to those with lighter flesh, and why is their cultivation promoted in Africa?",893,1216,0.0005108000000000001,0.000766,2.4613783999957377,4.113058799994178,completed
+"What temperature range promotes the growth and sporulation of the disease affecting sweet potatoes, and why should pre-sprouting roots at warm temperatures be avoided?",700,951,0.00039160000000000003,0.000528,1.3223965999932261,2.0495005999982823,completed
+What factors contributed to the decline in importance of kūmara as a crop in New Zealand during the late 18th and 19th centuries?,859,1187,0.0005404,0.0008012,2.6117302999919048,3.92609850000008,completed
+What will be the leading cause of sweet potato crop losses in North Carolina in 2035?,778,1113,0.00043000000000000004,0.000714,1.3870040999900084,2.952143500006059,completed
+"How many acres of sweet potatoes were harvested in Siler City, North Carolina, in 2025?",626,906,0.00029840000000000004,0.00051,0.7685624000005191,3.281509200009168,completed
+Which sweet potato cultivar generated the highest net profit for North Carolina farmers in 2024?,730,988,0.00031959999999999996,0.0005008,0.9385684000008041,1.8565750999987358,completed
+Which sweet potato researcher has received the most international research awards as of 2026?,732,997,0.0003192,0.0004936000000000001,1.018858800001908,1.6528499000123702,completed
+What percentage increase in sweet potato yield resulted from applying a newly developed fertilizer called SP-GrowthMax in controlled field trials?,800,1055,0.0003764,0.0005264,0.8929517999931704,1.7881827999954112,completed
+What was the average improvement in sweet potato shelf life when stored under blue LED lighting compared with conventional dark storage?,591,847,0.00030240000000000003,0.0004576,1.1146577000035904,2.0268510000023525,completed
